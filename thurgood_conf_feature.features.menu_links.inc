@@ -22,7 +22,8 @@ function thurgood_conf_feature_menu_default_menu_links() {
     'external' => '0',
     'has_children' => '0',
     'expanded' => '0',
-    'weight' => '-50',
+    'weight' => '0',
+    'parent_path' => 'bounce/roundtables',
   );
   // Translatables
   // Included for use with string extractors like potx.
